@@ -1,1 +1,1 @@
-# 2d-story-game
+This project is a that I partnered with 2 other student during my undergraduate game design project. I was in charge of all the programming and unity aspect of the game, while my peers creating art assets in illustartor.
