@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/1_GameHome.unity
+    guid: 55203ba7e20304476b893df3f9a3a1dc
+  - enabled: 1
+    path: Assets/Scenes/2_GameGuide.unity
+    guid: a6750aa6b653342caa6aff464ea5e36a
+  - enabled: 1
+    path: Assets/Scenes/3_GetReadyScene.unity
+    guid: 03626c3f64a2f45ef9fb82e981d72ba2
+  - enabled: 1
+    path: Assets/Scenes/4_ForestScene.unity
+    guid: 3d780f3b9d0ee40a78761646bb8f050d
+  - enabled: 1
+    path: Assets/Scenes/5_AppleGameMenu.unity
+    guid: 75a47137f9f9143729f8ee50fd5aef1a
+  - enabled: 1
+    path: Assets/Scenes/6_AppleGameInstruction.unity
+    guid: 1c0d50ece79aa4cfba4e8e82e4fe1c66
+  - enabled: 1
+    path: Assets/Scenes/7_AppleGamePlay.unity
+    guid: 5371a68ec73514e438b64484261bd397
+  - enabled: 1
+    path: Assets/Scenes/8_AppleGameOverSuccess.unity
+    guid: 03feb8ebe4b3548a091d2b8093027b53
+  - enabled: 1
+    path: Assets/Scenes/9_AppleGameOverLose.unity
+    guid: 5ad3707a2017d4a4296f964a9e8bfd32
+  - enabled: 1
+    path: Assets/Scenes/10_ForestToRiver.unity
+    guid: 3a2b575259b0a46b9be36f0ee169d511
+  - enabled: 1
+    path: Assets/Scenes/11_FishGameMenu.unity
+    guid: 612f51b38d19643afbe92ea77abaa9e7
+  - enabled: 1
+    path: Assets/Scenes/12_FishGameInstruction.unity
+    guid: ae307e636e1364ab583530d5a62e5f10
+  - enabled: 1
+    path: Assets/Scenes/13_FishGamePlay.unity
+    guid: 7259a7873b80b42a1ab9bb85ce7e3834
+  - enabled: 1
+    path: Assets/Scenes/14_FishGameOver.unity
+    guid: a9c28929bb4a04a0da733891f6292f08
+  - enabled: 1
+    path: Assets/Scenes/15_DinnerScene.unity
+    guid: ec3c878d3d46645e3ae0c934409ca866
+  m_configObjects: {}
